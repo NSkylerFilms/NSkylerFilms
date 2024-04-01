@@ -1,16 +1,15 @@
-### Hi there 👋
+## About me
 
-<!--
-**NSkylerFilms/NSkylerFilms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Skyler. I am studying film studies and physics (an interesting degree I know) in New Zealand. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>My Favourite Recent Films </summary>
+
+| Rank | Favorite films (2024) |
+|-----:|-----------------------|
+|     1|Oppenheimer            |
+|     2|Dune 2                 |
+|     3|Drive                  |
+
+</details>
