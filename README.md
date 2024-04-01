@@ -1,6 +1,8 @@
 ## About me
 
-Hi, I'm Skyler. I am studying film studies and physics (an interesting degree I know) in New Zealand. 
+Hi, I'm Skyler. I am studying film studies and physics (an interesting degree I know).
+
+I enjoy directing and writing screen plays.
 
 
 <details>
